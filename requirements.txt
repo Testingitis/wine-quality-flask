@@ -9,3 +9,4 @@ uvicorn
 fastapi
 jinja2
 flask
+gunicorn
